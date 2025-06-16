@@ -1,4 +1,4 @@
-# OrangeHRM Selenium Java Cucumber
+# OrangeHRM Selenium Java Cucumber Automation Project
 
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-darkgreen)
