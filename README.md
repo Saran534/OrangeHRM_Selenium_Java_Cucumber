@@ -6,7 +6,7 @@
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
 
 ## 🔗 Demo Application URL
-This Selenium Cucumber automation framework tests the OrangeHRM **demo site**:  
+This Selenium Java Cucumber automation framework tests the OrangeHRM **demo site**:  
 https://opensource-demo.orangehrmlive.com/
 
 ## 📘 Project Description
