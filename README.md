@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
-![TestNG](https://img.shields.io/badge/Cucumber-Framework-green)
+![TestNG](https://img.shields.io/badge/Cucumber-Framework-darkgreen)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
 
 ## 🔗 Demo Application URL
